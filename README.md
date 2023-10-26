@@ -22,10 +22,9 @@ The project's build process involves the integration of OpenCV, KNN, and HTML fo
 
 ### Technologies Used 🌐
 - **OpenCV** 👁️
-- **VGGFace recognizer** 🧠
 - **HTML** 📝
 - **KNN (K-Nearest Neighbors)** 🧾
-- EXCEL
+- **Excel** 📊 
 
 ## Features 🎯
 - Utilizes computer vision for **precise** face recognition.
@@ -40,15 +39,6 @@ The project's build process involves the integration of OpenCV, KNN, and HTML fo
 - Ensures **accountability** and elevates management in educational institutions and companies 🏫👥.
 
 Implement this AI-driven system for **streamlined** attendance management. 📅🚀
-
-## Team Members
-- **Mohamed Thanish (Project Lead)**
-  - LinkedIn: [Mohamed Thanish](https://www.linkedin.com/in/mohamed-thanish-m-b82053218/)
-- **Arockia Joshuva J**
-  - LinkedIn: [Arockia Joshuva J](https://www.linkedin.com/in/arockia-joshuva-j/)
-- **Kuberan R**
-  - LinkedIn: [Kuberan R](https://www.linkedin.com/in/kuberan-r-58101b235/)
-
 
 ## Code Execution
 To run the code, execute `app.py` with the Python script.

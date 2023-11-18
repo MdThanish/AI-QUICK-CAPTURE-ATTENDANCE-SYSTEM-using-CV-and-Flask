@@ -15,10 +15,10 @@ In educational institutions and companies, tracking attendance is **vital** for 
 Challenges in traditional attendance tracking methods include inaccuracies, time consumption, and the need for manual record-keeping. These issues can lead to inefficiencies and errors in attendance management, impacting educational institutions and companies alike. This project addresses these challenges with innovative AI and computer vision technologies to streamline attendance tracking and improve accuracy.
 
 ## The Solution
-Our solution leverages the power of AI, specifically face recognition using OpenCV. By utilizing K-Nearest Neighbors (KNN) for deep learning-based accuracy, we provide a cutting-edge approach to attendance tracking. Real-time tracking with timestamps ensures data precision. Data is seamlessly recorded and managed using the robust capabilities of Excel 📊. An intuitive web interface simplifies access for users, making attendance management more efficient and user-friendly.
+Our solution leverages the power of AI, specifically face recognition using OpenCV. By utilizing K-Nearest Neighbors (KNN) and also used deep learning-based accuracy, we provide a cutting-edge approach to attendance tracking. Real-time tracking with timestamps ensures data precision. Data is seamlessly recorded and managed using the robust capabilities of Excel 📊. An intuitive web interface simplifies access for users, making attendance management more efficient and user-friendly.
 
 ## Build Process
-The project's build process involves the integration of OpenCV, KNN, and HTML for the web interface. The AI-driven system is implemented using Python. The code execution and usage instructions are detailed below.
+The project's build process involves the integration of OpenCV, KNN, deep learning and HTML for the web interface. The AI-driven system is implemented using Python. The code execution and usage instructions are detailed below.
 
 ### Technologies Used 🌐
 - **OpenCV** 👁️
@@ -46,7 +46,7 @@ To run the code, execute `app.py` with the Python script.
 ## Code Flow
 🚀 Initialization: The code begins by importing libraries, setting up Flask, and initializing the webcam for face recognition. It ensures the necessary directories exist.
 
-👤 User Registration and Model Training: Functions for user registration, face extraction, and model training are defined. User faces are captured and used to train a K-Nearest Neighbors (KNN) classifier for face recognition.
+👤 User Registration and Model Training: Functions for user registration, face extraction, and model training are defined. User faces are captured and used to train a algorithm for face recognition.
 
 🌐 Routing Functions: The code defines routing functions for the web app. Users can view attendance, take attendance by recognizing faces, and add new users.
 
